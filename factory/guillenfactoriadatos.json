@@ -1,0 +1,9 @@
+{
+	"name": "guillenfactoriadatos",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "edd63554-6e48-4493-b610-84e8247ac54d",
+		"tenantId": "3f8b8dfb-49d3-4063-8d8e-ddd597331338"
+	}
+}
